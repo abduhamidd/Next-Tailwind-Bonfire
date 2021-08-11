@@ -36,11 +36,7 @@ function Header() {
           </div>
           <div className={'flex justify-end mr-8 lg:hidden'}>
             <ButtonPrimary onClick={handleOpen}>Menu</ButtonPrimary>
-            <div
-              className={`absolute bg-red-400 h-80  top-0  w-40 rounded-xl ${
-                open ? 'translate-x-2' : '-translate-x-2'
-              }`}
-            >
+            <div>
               <div className=""></div>
             </div>
           </div>
