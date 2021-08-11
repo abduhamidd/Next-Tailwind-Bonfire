@@ -1,0 +1,62 @@
+.bg {
+    background-clip: text;
+    color: #fff;
+
+    font-weight: 500;
+    background: radial-gradient(circle at center, #eb9038 2%, #f3c0c6 20%, #f3c3cf 20%, #8dc4f3 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+@media (min-width: 375px) {
+    .bg {
+        display: inline-block;
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .h3 {
+        font-size: 20px;
+        letter-spacing: 5px;
+        line-height: 25px;
+    }
+}
+@media (min-width: 640px) {
+    .bg {
+        font-size: 50px;
+    }
+    .h3 {
+        font-size: 22px;
+        letter-spacing: 1px;
+        line-height: 25px;
+    }
+}
+@media (min-width: 768px) {
+    .bg {
+        font-size: 60px;
+        line-height: 80px;
+    }
+    .h3 {
+        font-size: 22px;
+        letter-spacing: 1px;
+        line-height: 30px;
+    }
+}
+@media (min-width: 1024px) {
+    .bg {
+        font-size: 100px;
+        line-height: 107px;
+    }
+    .h3 {
+        font-size: 22px;
+        letter-spacing: 1px;
+        line-height: 40px;
+    }
+}
+.h3 {
+    background-clip: text;
+    color: #fff;
+
+    font-weight: 500;
+    background: radial-gradient(#eb9038 25%, #f3c3cf 35%, #8dc4f3 20%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
