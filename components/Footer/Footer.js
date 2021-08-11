@@ -1,11 +1,11 @@
 import Image from 'next/image';
-import Square from '../../public/assets/Square.svg';
+
 import ButtonPrimary from '../misc/ButtonPrimary';
 import Bonfire from '../../public/assets/bonfire-logo.svg';
 import Facebook from '../../public/assets/facebook.svg';
 import Instagram from '../../public/assets/instagram.svg';
 import Pinterest from '../../public/assets/pinterest.svg';
-import Twitter from '../../public/assets/twitter.svg';
+import Twitter from '../../public/assets/Twitter.svg';
 import Mountain from '../../public/assets/Mountain.svg';
 import Button from '../../public/assets/button.svg';
 function Footer() {
