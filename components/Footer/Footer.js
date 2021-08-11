@@ -6,7 +6,7 @@ import Facebook from '../../public/assets/facebook.svg';
 import Instagram from '../../public/assets/instagram.svg';
 import Pinterest from '../../public/assets/pinterest.svg';
 import Twitter from '../../public/assets/Twitter.svg';
-import Mountain from '../../public/assets/Mountain.svg';
+import Mountain from '../../public/assets/mountain.svg';
 import Button from '../../public/assets/button.svg';
 function Footer() {
   return (
